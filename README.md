@@ -2,7 +2,7 @@
 
 # Overview of the statistical analysis:
 
-Using Tableau I was able to create story that depicts the usage of a bike sharing service in New York City, with the purpose of potentially expanding the service to Des Moines. In this report I will identify the days and times in which the service is most in use and I will show how this data differs between subscribers and customers of all genders. I will also show how long the bikes are typically checked out for. Lastly, I will identify the areas of the city in which the bike trips typically start and end. 
+Using Tableau I was able to create a story that depicts the usage of a bike sharing service in New York City, with the purpose of potentially expanding the service to Des Moines. In this report I will identify the days and times in which the service is most in use and I will show how this data differs between subscribers and customers of all genders. I will also show how long the bikes are typically checked out for. Lastly, I will identify the areas of the city in which the bike trips typically start and end. 
 
 Click the link below to access the BikeShare Story:
 
